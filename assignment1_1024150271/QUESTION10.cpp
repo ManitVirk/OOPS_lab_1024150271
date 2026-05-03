@@ -1,4 +1,4 @@
-// WAP to check whether the given number is even or odd (by using if-else and conditional operator)
+
 #include <iostream>
 using namespace std;
 int main()
